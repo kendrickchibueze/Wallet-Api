@@ -1,6 +1,8 @@
 # Wallet Function (API)
 The function required for this **wallet** task can be simply understood by building a simple Api algorithm which mimicks a real-world **wallet**
-containing stocks whose values can be computed using exchange rates.The algorithm we used for  building the  **wallet** function can be worked on to capture both speed and space complexity [BigO notation].
+containing stocks whose values can be computed using exchange rates.The algorithm we used for  building the  **wallet** function can be worked on to capture both speed and space complexity [BigO notation]. A sample 200 ok response of our wallet function looks like this:
+
+!["response-screenshot"](https://github.com/kendrickchibueze/Wallet-Api/blob/master/Screenshot%20(202).png?raw=true)
 
 ## Technologies used
 This wallet function is built with vanilla  javascript and an express server making up a simple API with one endpoint:

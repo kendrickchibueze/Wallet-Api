@@ -28,7 +28,7 @@ The Stock Breakdown is computed using the following rate exchange rules/assumpti
 
 
 ## Rate Exchange of our Wallet Stocks in Details(TOP DOWN Approach)
-```js
+```
 Initial Balance:
 Amount
 
@@ -67,7 +67,7 @@ Final Balance=Equivalent value of Stock
 ## Sample payloads when adding stock types and quantities to our wallet
 
 ### payload1
- ```javascript
+ ```json
 {
     "ID": 13092,
     "Amount": 4500,
@@ -109,7 +109,7 @@ Final Balance=Equivalent value of Stock
 ```
 
 ### payload2
-```js
+```json
 {
     "ID": 1308,
     "Amount": 12580,
